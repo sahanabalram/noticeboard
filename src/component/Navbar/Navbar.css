@@ -5,11 +5,11 @@
 a.navbar-link {
     font-size: 20px;
     margin-left: 25px;
-    color: white !important;
+    color: sienna !important;
     text-decoration: none;
 }
 
 a.navbar-link:hover{
     text-decoration: none;
-    color: Sienna;
+    color: ForestGreen !important;
 }
