@@ -1,0 +1,15 @@
+.top-navbar{
+    background: #F4A460;
+}
+
+a.navbar-link {
+    font-size: 20px;
+    margin-left: 25px;
+    color: black;
+    text-decoration: none;
+}
+
+a.navbar-link:hover{
+    text-decoration: none;
+    color: Sienna;
+}
