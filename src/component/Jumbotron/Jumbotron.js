@@ -6,13 +6,9 @@ class JumbotronContainer extends Component {
     render() {
         return (
             <Jumbotron>
-                <h1>Hello, world!</h1>
+                <h1 id="notice-board">Notice Board</h1>
                 <p>
-                    This is a simple hero unit, a simple jumbotron-style component for calling extra
-                    attention to featured content or information.
-                </p>
-                <p>
-                    <Button bsStyle="primary">Learn more</Button>
+                    This is an online web application to display any notice that you would like people to see.
                 </p>
             </Jumbotron>
         )
